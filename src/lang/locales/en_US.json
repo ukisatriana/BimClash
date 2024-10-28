@@ -6,6 +6,24 @@
 	"sidenav.dashboard.analytic": "Analytic",
 	"sidenav.dashboard.sales": "Sales",
 
+
+
+	"sidenav.dashboard.summary": "Summary",
+	"sidenav.dashboard.detail": "Detail",
+
+	"sidenav.main.data": "Main Data",
+	"sidenav.main.project": "Projects",
+	"sidenav.main.data.clash": "Data Clash",
+
+	
+	"sidenav.input.option": "Input Option",
+	"sidenav.input.jenis.clash": "Jenis Clash",
+	"sidenav.input.kategori.clash": "Kategori Clash",
+	"sidenav.input.tindak.lanjut": "Tindak Lanjut",
+	"sidenav.input.status.validasi": "Status Validasi",
+
+
+
 	"sidenav.apps": "Apps",
 	"sidenav.apps.mail": "Mail",
 	"sidenav.apps.chat": "Chat",

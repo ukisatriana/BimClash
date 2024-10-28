@@ -1,0 +1,48 @@
+[
+	{
+        "id": 1,
+        "projectName": "Cijurai",
+        "projectLocation": "Sukabumi",
+        "projectType": "Bendung",
+        "owner": "Wika",
+        "contractor": "Wika",
+        "subcontractor": "wika"
+    },
+    {
+        "id": 2,
+        "projectName": "Jalan Tol Cikampek",
+        "projectLocation": "Cikampek",
+        "projectType": "jalan tol",
+        "owner": "Wika",
+        "contractor": "Wika",
+        "subcontractor": "wika"
+    },
+
+    {
+        "id": 3,
+        "projectName": "Gedung Kepresidenan",
+        "projectLocation": "IKN",
+        "projectType": "Gedung",
+        "owner": "Wika",
+        "contractor": "Wika",
+        "subcontractor": "wika"
+    },
+    {
+        "id": 4,
+        "projectName": "Rumah Sakit Vertical Surabaya",
+        "projectLocation": "IKN",
+        "projectType": "Gedung",
+        "owner": "Wika",
+        "contractor": "Wika",
+        "subcontractor": "wika"
+    },
+    {
+        "id": 5,
+        "projectName": "Revitalisasi Runway Bandara Halim",
+        "projectLocation": "Jakarta",
+        "projectType": "Jalan",
+        "owner": "Wika",
+        "contractor": "Wika",
+        "subcontractor": "wika"
+    }
+]

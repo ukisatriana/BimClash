@@ -5,6 +5,8 @@ import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
 import { signIn, showAuthMessage, showLoading, hideAuthMessage } from 'store/slices/authSlice';
 
+// login form >> authSlice >> AuthService >> FirebaseService
+
 const LoginForm = ({ signIn, loading }) => {
   const onFinish = (values) => {
     signIn(values);
