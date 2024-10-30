@@ -12,14 +12,13 @@ const EDIT = 'EDIT';
 const JenisClashForm = props => {
   const { mode = ADD, param } = props;
   const navigate = useNavigate();
+  const [form] = Form.useForm();
+  const [submitLoading, setSubmitLoading] = useState(false);
 
   const initialValues = {
     namaJenisClash: '',
     ketJenisClash: ''
   };
-
-  const [form] = Form.useForm();
-  const [submitLoading, setSubmitLoading] = useState(false);
 
   useEffect(() => {
     const fetchData = async () => {

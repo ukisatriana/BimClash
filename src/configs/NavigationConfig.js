@@ -83,10 +83,10 @@ const inputOptionNavTree = [{
     },
     {
       key: 'option-tindak-lanjut',
-      path: `${APP_PREFIX_PATH}/input-option/tindak-lanjut-list`,
+      path: `${APP_PREFIX_PATH}/input-option/tindak-lanjut/tindak-lanjut-list`,
       title: 'sidenav.input.tindak.lanjut',
       icon: FileTextOutlined,
-      breadcrumb: false,
+      breadcrumb: true,
       submenu: []
     },
 
